@@ -1,0 +1,5 @@
+.vscode/
+rss-agg.exe
+.env
+vendor
+go.sum
